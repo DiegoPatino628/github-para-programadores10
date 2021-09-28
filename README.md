@@ -1,2 +1,3 @@
-# github-para-programadores10
-Prueba de repositorio
+# Bienvenido a GitHub para programadores
+GitHub para programadores
+|Visita el blog|
